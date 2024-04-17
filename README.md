@@ -17,3 +17,7 @@ Pour lancer le projet utiliser la commande:
 ```bash
 sbt run -java-home $JAVA_HOME
 ```
+
+## Devenv
+
+Pour utiliser l'environnement depuis devenv, effectuer la commande `devenv up`.
